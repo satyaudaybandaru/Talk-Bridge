@@ -1,0 +1,10 @@
+[project]
+name = "real-time-travel-voice-translation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.134.0",
+    "sarvamai>=0.1.25",
+]
